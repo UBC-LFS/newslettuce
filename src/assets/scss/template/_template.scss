@@ -13,14 +13,17 @@ html,
 }
 
 .body-drip {
-  border-top: 8px solid #663399;
+  border-top: 20px solid #b0b58c;
+  margin-top: -16px !important;
 }
 
 // Full Width Headers
 .header {
-  background: #8a8a8a;
+  background: #b0b58c;
 }
-
+.header-white {
+  background: white;
+}
 .header .columns {
   padding-bottom: 0;
 }
@@ -31,7 +34,7 @@ html,
 }
 
 .header .wrapper-inner {
-  padding: 20px;
+  padding: 25px;
 }
 
 .header .container {
